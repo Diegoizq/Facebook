@@ -1,0 +1,15 @@
+/workspaces/Facebook/bin/Debug/net8.0/Facebook
+/workspaces/Facebook/bin/Debug/net8.0/Facebook.deps.json
+/workspaces/Facebook/bin/Debug/net8.0/Facebook.runtimeconfig.json
+/workspaces/Facebook/bin/Debug/net8.0/Facebook.dll
+/workspaces/Facebook/bin/Debug/net8.0/Facebook.pdb
+/workspaces/Facebook/obj/Debug/net8.0/Facebook.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Facebook/obj/Debug/net8.0/Facebook.AssemblyInfoInputs.cache
+/workspaces/Facebook/obj/Debug/net8.0/Facebook.AssemblyInfo.cs
+/workspaces/Facebook/obj/Debug/net8.0/Facebook.csproj.CoreCompileInputs.cache
+/workspaces/Facebook/obj/Debug/net8.0/Facebook.sourcelink.json
+/workspaces/Facebook/obj/Debug/net8.0/Facebook.dll
+/workspaces/Facebook/obj/Debug/net8.0/refint/Facebook.dll
+/workspaces/Facebook/obj/Debug/net8.0/Facebook.pdb
+/workspaces/Facebook/obj/Debug/net8.0/Facebook.genruntimeconfig.cache
+/workspaces/Facebook/obj/Debug/net8.0/ref/Facebook.dll
